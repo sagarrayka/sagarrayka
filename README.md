@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sagarrayka
 - 👀 I’m interested in python,c++,java
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on Instagram 
+- 💞️ I’m looking to collaborate on Application making 
 - 📫 How to reach me ssagarvash@gmail.com
 
 <!---
